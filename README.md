@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey! 👋
+
+I'm Walter Aldana!
+
+* Currently: Full Stack Developer Student at Digital House by Globant and Mercadolibre
+* Previuosly: Business Administration at Diego Portales University in Chile
+
 
 <!--
 **Waldanag/Waldanag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
